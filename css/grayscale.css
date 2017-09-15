@@ -372,3 +372,25 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+
+.cta-btn {
+  display: inline-block;
+  position: relative;
+  padding: 12px 20px;
+  color: #7cf8fa;
+  font: 500 12px/1 'filson-soft', sans-serif;
+  border-radius: 20px;
+  box-shadow: 4px 4px 0px rgba(34, 45, 125, 0.1);
+  overflow: hidden;
+  z-index: 6;
+}
+
+.rounded-corners {
+    border-radius: 25px;
+    height: 100px;
+
+}
+
+.who-padding {
+    padding: 5px;
+}

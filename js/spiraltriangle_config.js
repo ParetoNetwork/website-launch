@@ -2,9 +2,9 @@ var width = 960,
     height = 500,
     margin = 60,
     triangleSize = 400,
-    squareCount = 71,
-    squareSize = 80,
-    speed = .045;
+    squareCount = 60,
+    squareSize = 50,
+    speed = .050;
 
 var square = d3.selectAll("g")
   .selectAll("g")
