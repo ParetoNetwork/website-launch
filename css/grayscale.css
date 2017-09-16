@@ -376,13 +376,22 @@ body {
 .cta-btn {
   display: inline-block;
   position: relative;
+  margin-top: 5px;
+  margin-right: 5px;
+  background-color: #80c3ed;
   padding: 12px 20px;
   color: #7cf8fa;
   font: 500 12px/1 'filson-soft', sans-serif;
   border-radius: 20px;
-  box-shadow: 4px 4px 0px rgba(34, 45, 125, 0.1);
+  box-shadow: 2px 2px 0px rgba(34, 45, 125, 0.1);
   overflow: hidden;
   z-index: 6;
+}
+
+.bio { 
+  text-align: center;
+  font-weight: 100;
+
 }
 
 .rounded-corners {
