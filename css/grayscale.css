@@ -379,9 +379,9 @@ body {
   margin-top: 5px;
   margin-right: 5px;
   background-color: #80c3ed;
-  padding: 12px 20px;
+  padding: 12px 15px;
   color: #7cf8fa;
-  font: 500 12px/1 'filson-soft', sans-serif;
+  font: 500 10px/1 'filson-soft', sans-serif;
   border-radius: 20px;
   box-shadow: 2px 2px 0px rgba(34, 45, 125, 0.1);
   overflow: hidden;
